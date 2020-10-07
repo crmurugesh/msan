@@ -8,5 +8,4 @@ def ping(ip):
         return False
 
 print ping('localhost')
-print ping('10.10.10.10')
 
